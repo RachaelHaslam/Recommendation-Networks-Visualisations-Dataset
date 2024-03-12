@@ -1,0 +1,117 @@
+Source,Target,From,To,Catagory
+1,2,Amalric of Nesle,Louis VII of France,d
+3,2,"Amalric, King of Jerusalem",Louis VII of France,d
+1,2,Amalric of Nesle,Louis VII of France,c
+4,5,Aimery of Limoges,Henry II of England,d
+6,2,Bertrand of Blancafort,Louis VII of France,d
+7,8,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",c
+9,7,Avesgot,"Anselm, Archbishop of Canterbury",a
+7,8,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",a
+7,10,"Anselm, Archbishop of Canterbury","Henry, a Monk of Bec",a
+7,11,"Anselm, Archbishop of Canterbury","Gundulf, Bishop of Rochester",a
+7,12,"Anselm, Archbishop of Canterbury","Herluin, a Monk of Bec",a
+7,13,"Anselm, Archbishop of Canterbury",Albert the Physician,a
+7,8,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",a
+7,14,"Anselm, Archbishop of Canterbury","Helgot, Prior of Saint-Étienne at Caen",a
+7,8,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",f
+7,15,"Anselm, Archbishop of Canterbury","Henry, Prior of Christ Church",f
+7,11,"Anselm, Archbishop of Canterbury","Gundulf, Bishop of Rochester",a
+7,17,"Anselm, Archbishop of Canterbury",Hunfrid the Teacher,e
+7,18,"Anselm, Archbishop of Canterbury","Adela, Countess of Flanders",d
+7,11,"Anselm, Archbishop of Canterbury","Gundulf, Bishop of Rochester",a
+7,19,"Anselm, Archbishop of Canterbury","Baldwin, Abbot of Bury St. Edmunds",a
+7,15,"Anselm, Archbishop of Canterbury","Henry, Prior of Christ Church",a
+7,20,"Anselm, Archbishop of Canterbury",Richard and Rohais De Clare,a
+7,21,"Anselm, Archbishop of Canterbury","Fulk, Abbot of Saint-Pierre-sur-Dives",f
+7,22,"Anselm, Archbishop of Canterbury","Ida, Countess of Blois",a
+7,15,"Anselm, Archbishop of Canterbury","Henry, Prior of Christ Church",f
+7,11,"Anselm, Archbishop of Canterbury","Gundulf, Bishop of Rochester",f
+7,23,"Anselm, Archbishop of Canterbury",Gilbert Crispin,c
+7,24,"Anselm, Archbishop of Canterbury",Walter the Monk,f
+7,25,"Anselm, Archbishop of Canterbury",William the Abbot,f
+7,8,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",f
+7,26,"Anselm, Archbishop of Canterbury",Abbot R.,d
+7,8,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",b
+27,28,Peter of Celle,Pope Alexander III,d
+27,29,Peter of Celle,Pope Anastasius IV or Pope Hadrian IV,d
+27,30,Peter of Celle,Archbishop Hugh of Sens,f
+27,31,Peter of Celle,The Prior and community of Mont-Dieu,d
+27,28,Peter of Celle,Pope Alexander III,b
+27,32,Peter of Celle,Albert of Morra,c
+27,33,Peter of Celle,Peter of Pavia,d
+27,33,Peter of Celle,Peter of Pavia,d
+27,34,Peter of Celle,Archbishop Eskil of Lund,b
+27,34,Peter of Celle,Archbishop Eskil of Lund,d
+27,35,Peter of Celle,"Richard, Archbishop of Canterbury",d
+27,36,Peter of Celle,Archbishop Absalon of Lund,e
+27,37,Peter of Celle,"Ralph of Bedford, Prior of Worcester",d
+27,38,Peter of Celle,The Abbot of Villers,e
+27,39,Peter of Celle,H. Abbot of Cluny,a
+27,40,Peter of Celle,Abbot Hugh of Saint-Amand,c
+27,41,Peter of Celle,"Prior Odo of Christ Church, Canterbury",c
+27,42,Peter of Celle,The Prior and community of Canterbury,d
+27,43,Peter of Celle,The Abbot and community of Villers,a
+46,44,Nicholas of Clairvaux,"Burchard, Abbot of Balerne",a
+27,45,Peter of Celle,"Simon, Abbot of Chazy- l'Abbaye",f
+46,47,Nicholas of Clairvaux,"Hugh II, Archbishop of Tours",d
+46,48,Nicholas of Clairvaux,"Henry, Bishop of Troyes",d
+46,27,Nicholas of Clairvaux,Peter of Celle,d
+46,50,Nicholas of Clairvaux,Manuel Comnenus,d
+46,51,Nicholas of Clairvaux,Bernard of Clairvaux,c
+46,52,Nicholas of Clairvaux,"Galcher, Monk of Clairvaux",d
+46,53,Nicholas of Clairvaux,"Fromund, Hospitaller of Clairvaux",d
+8,54,"Lanfranc, Archbishop of Canterbury","Guthric, King of Dublin",e
+8,23,"Lanfranc, Archbishop of Canterbury",Gilbert Crispin,e
+8,19,"Lanfranc, Archbishop of Canterbury","Baldwin, Abbot of Bury St. Edmunds",f
+8,55,"Lanfranc, Archbishop of Canterbury","Adelelm, Abbot of Abingdon",f
+8,56,"Lanfranc, Archbishop of Canterbury","Odo, Abbot of Chertsey",f
+8,57,"Lanfranc, Archbishop of Canterbury",Abbot W.,a
+58,59,Thomas Becket,Fulk of Rheims,d
+58,59,Thomas Becket,Fulk of Rheims,d
+58,60,Thomas Becket,Master Lombard,c
+61,58,Bishop Arnulf of Lisieux,Thomas Becket,d
+62,63,Gilbert Foliot,"Nigel, Bishop of Ely",d
+62,64,Gilbert Foliot,"Roger, Bishop of Worcester",d
+62,5,Gilbert Foliot,Henry II of England,f
+51,65,Bernard of Clairvaux,Melisende of Jerusalem,d
+51,65,Bernard of Clairvaux,Melisende of Jerusalem,b
+51,66,Bernard of Clairvaux,Eleanor of Aquitaine,d
+51,67,Bernard of Clairvaux,Hugh Farsit,c
+51,68,Bernard of Clairvaux,"Theobald, Count of Champagne",d
+51,68,Bernard of Clairvaux,"Theobald, Count of Champagne",d
+51,69,Bernard of Clairvaux,Pope Innocent II,d
+51,69,Bernard of Clairvaux,Pope Innocent II,d
+51,70,Bernard of Clairvaux,Pope Eugenius III,d
+51,71,Bernard of Clairvaux,"Theobald, Archbishop of Canterbury",a
+51,69,Bernard of Clairvaux,Pope Innocent II,f
+51,69,Bernard of Clairvaux,Pope Innocent II,f
+51,69,Bernard of Clairvaux,Pope Innocent II,d
+51,70,Bernard of Clairvaux,Pope Eugenius III,d
+51,70,Bernard of Clairvaux,Pope Eugenius III,d
+51,72,Bernard of Clairvaux,Legates of the Apostolic See,f
+51,73,Bernard of Clairvaux,Pope Honorius,d
+51,74,Bernard of Clairvaux,Cardinal Heimeric,d
+51,75,Bernard of Clairvaux,"Henry, Bishop of Verdun",d
+51,76,Bernard of Clairvaux,"Henry de Blois, Bishop of Winchester",d
+51,77,Bernard of Clairvaux,Adelaide of Maurienne,d
+78,51,"Hildebert, Archbishop of Tours",Bernard of Clairvaux,d
+51,79,Bernard of Clairvaux,The People of Pisa,d
+51,80,Bernard of Clairvaux,Guy of Castello,b
+51,81,Bernard of Clairvaux,Cardinal Alberic,d
+51,69,Bernard of Clairvaux,Pope Innocent II,d
+51,69,Bernard of Clairvaux,Pope Innocent II,c
+51,69,Bernard of Clairvaux,Pope Innocent II,d
+51,69,Bernard of Clairvaux,Pope Innocent II,f
+51,69,Bernard of Clairvaux,Pope Innocent II,b
+51,70,Bernard of Clairvaux,Pope Eugenius III,c
+51,70,Bernard of Clairvaux,Pope Eugenius III,b
+51,82,Bernard of Clairvaux,"Hugh, Bishop of Ostia",f
+84,83,A Provisor,Hildegard of Bingen,a
+85,83,A Certain Provost,Hildegard of Bingen,a
+86,83,The Monk Guibert,Hildegard of Bingen,a
+87,58,Bishop John of Poitiers,Thomas Becket,d
+88,89,John of Salisbury,Nicholas de Sigillo,d
+88,90,John of Salisbury,Master Nicholas,c
+88,91,John of Salisbury,William de Turba,c
+88,87,John of Salisbury,Bishop John of Poitiers,c
+88,92,John of Salisbury,"Gratian, papal notary",d

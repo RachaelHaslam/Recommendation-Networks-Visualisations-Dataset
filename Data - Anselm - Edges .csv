@@ -1,0 +1,31 @@
+Source,Target,From,To,Catagory
+1,2,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",c
+3,1,Avesgot,"Anselm, Archbishop of Canterbury",a
+1,2,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",a
+1,4,"Anselm, Archbishop of Canterbury","Henry, a Monk of Bec",a
+1,5,"Anselm, Archbishop of Canterbury","Gundulf, Bishop of Rochester",a
+1,6,"Anselm, Archbishop of Canterbury","Herluin, a Monk of Bec",a
+1,7,"Anselm, Archbishop of Canterbury",Albert the Physician,a
+1,2,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",a
+1,8,"Anselm, Archbishop of Canterbury","Helgot, Prior of Saint-Étienne at Caen",a
+1,2,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",f
+1,9,"Anselm, Archbishop of Canterbury","Henry, Prior of Christ Church",f
+1,5,"Anselm, Archbishop of Canterbury","Gundulf, Bishop of Rochester",a
+1,11,"Anselm, Archbishop of Canterbury",Hunfrid the Teacher,e
+1,12,"Anselm, Archbishop of Canterbury","Adela, Countess of Flanders",d
+1,5,"Anselm, Archbishop of Canterbury","Gundulf, Bishop of Rochester",a
+1,13,"Anselm, Archbishop of Canterbury","Baldwin, Abbot of Bury St. Edmunds",a
+1,9,"Anselm, Archbishop of Canterbury","Henry, Prior of Christ Church",a
+1,14,"Anselm, Archbishop of Canterbury",Richard and Rohais De Clare,a
+1,15,"Anselm, Archbishop of Canterbury","Fulk, Abbot of Saint-Pierre-sur-Dives",f
+1,16,"Anselm, Archbishop of Canterbury","Ida, Countess of Blois",a
+1,9,"Anselm, Archbishop of Canterbury","Henry, Prior of Christ Church",f
+1,5,"Anselm, Archbishop of Canterbury","Gundulf, Bishop of Rochester",f
+1,17,"Anselm, Archbishop of Canterbury",Gilbert Crispin,c
+1,18,"Anselm, Archbishop of Canterbury",Walter the Monk,f
+1,19,"Anselm, Archbishop of Canterbury",William the Abbot,f
+1,2,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",f
+1,20,"Anselm, Archbishop of Canterbury",Abbot R.,d
+1,2,"Anselm, Archbishop of Canterbury","Lanfranc, Archbishop of Canterbury",b
+2,17,"Lanfranc, Archbishop of Canterbury",Gilbert Crispin,e
+2,13,"Lanfranc, Archbishop of Canterbury","Baldwin, Abbot of Bury St. Edmunds",f
